@@ -10,4 +10,4 @@ You can try the app live on Hugging Face Spaces:
 
 ## Screenshot
 
-![App Screenshot](<a href="https://ibb.co/1ttPBp5V"><img src="https://i.ibb.co/gLLfQXp1/my-Website.png" alt="my-Website" border="0"></a>)
+![App Screenshot]([[<a href="https://ibb.co/1ttPBp5V"><img src="https://i.ibb.co/gLLfQXp1/my-Website.png" alt="my-Website" border="0"></a>](https://i.postimg.cc/bYLspBP0/my-Website.png)](https://postimg.cc/23bzxTV3))
