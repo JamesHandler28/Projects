@@ -45,10 +45,10 @@ iface = gr.Interface(
     title = "🚗 Is it a car?",
     description = "My first machine learning app for GitHub",
     examples = [
-        ["car1.jpg"],
-        ["car2.jpg"],
-        ["car11.jpg"],
-        ["car13.jpg"]
+        ["example_car.jpg"],
+        ["example_cars.jpg"],
+        ["example_inside_car.jpg"],
+        ["example_not_car.jpg"]
     ]
 )
 
